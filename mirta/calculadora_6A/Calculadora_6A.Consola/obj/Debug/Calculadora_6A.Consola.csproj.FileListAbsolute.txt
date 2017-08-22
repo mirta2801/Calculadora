@@ -1,0 +1,16 @@
+C:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6A.Consola.exe.config
+C:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6A.Consola.exe
+C:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6A.Consola.pdb
+C:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6a.Libreria.dll
+C:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6a.Libreria.pdb
+C:\mirta\calculadora_6A\Calculadora_6A.Consola\obj\Debug\Calculadora_6A.Consola.csprojResolveAssemblyReference.cache
+C:\mirta\calculadora_6A\Calculadora_6A.Consola\obj\Debug\Calculadora_6A.Consola.exe
+C:\mirta\calculadora_6A\Calculadora_6A.Consola\obj\Debug\Calculadora_6A.Consola.pdb
+G:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6A.Consola.exe.config
+G:\mirta\calculadora_6A\Calculadora_6A.Consola\obj\Debug\Calculadora_6A.Consola.exe
+G:\mirta\calculadora_6A\Calculadora_6A.Consola\obj\Debug\Calculadora_6A.Consola.pdb
+G:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6A.Consola.exe
+G:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6A.Consola.pdb
+G:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6a.Libreria.dll
+G:\mirta\calculadora_6A\Calculadora_6A.Consola\bin\Debug\Calculadora_6a.Libreria.pdb
+G:\mirta\calculadora_6A\Calculadora_6A.Consola\obj\Debug\Calculadora_6A.Consola.csprojResolveAssemblyReference.cache

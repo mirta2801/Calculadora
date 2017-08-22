@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\mirta\calculadora_6A\Calculadora_6a.Libreria\bin\Debug\Calculadora_6a.Libreria.dll
+C:\Users\Alumno\Desktop\mirta\calculadora_6A\Calculadora_6a.Libreria\bin\Debug\Calculadora_6a.Libreria.pdb
+C:\Users\Alumno\Desktop\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.dll
+C:\Users\Alumno\Desktop\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.pdb
+C:\mirta\calculadora_6A\Calculadora_6a.Libreria\bin\Debug\Calculadora_6a.Libreria.dll
+C:\mirta\calculadora_6A\Calculadora_6a.Libreria\bin\Debug\Calculadora_6a.Libreria.pdb
+C:\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.csprojResolveAssemblyReference.cache
+C:\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.dll
+C:\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.pdb
+G:\mirta\calculadora_6A\Calculadora_6a.Libreria\bin\Debug\Calculadora_6a.Libreria.dll
+G:\mirta\calculadora_6A\Calculadora_6a.Libreria\bin\Debug\Calculadora_6a.Libreria.pdb
+G:\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.csprojResolveAssemblyReference.cache
+G:\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.dll
+G:\mirta\calculadora_6A\Calculadora_6a.Libreria\obj\Debug\Calculadora_6a.Libreria.pdb
